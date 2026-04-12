@@ -17,8 +17,8 @@ interface FormErrors {
 }
 
 const CONTACT_INFO = [
-  { icon: Mail, label: "Email us", value: "hello@butterflybot.in", href: "mailto:hello@butterflybot.in" },
-  { icon: Phone, label: "Call us", value: "+91 98765 43210", href: "tel:+919876543210" },
+  { icon: Mail, label: "Email us", value: "hello@butterflysg.in", href: "mailto:hello@butterflysg.in" },
+  { icon: Phone, label: "Call us", value: "+65 98765 432", href: "tel:+6598765432" },
   { icon: MessageSquare, label: "Live chat", value: "Chat with us on the site", href: "#" },
 ];
 

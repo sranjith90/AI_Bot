@@ -53,7 +53,7 @@ export default function Hero() {
           data-testid="hero-headline"
         >
           Build smarter{" "}
-          <span className="gradient-text block sm:inline">chatbots</span>{" "}
+          <span className="gradient-text block sm:inline">WhatsApp Marketing</span>{" "}
           <span className="block">in minutes</span>
         </h1>
 

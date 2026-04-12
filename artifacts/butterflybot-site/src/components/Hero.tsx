@@ -52,7 +52,7 @@ export default function Hero() {
           className="font-serif text-5xl sm:text-6xl md:text-7xl font-bold leading-[1.08] tracking-tight mb-6 text-foreground"
           data-testid="hero-headline"
         >
-          Build smarter{" "}
+          Smarter{" "}
           <span className="gradient-text block sm:inline">WhatsApp Marketing</span>{" "}
           <span className="block">in minutes</span>
         </h1>

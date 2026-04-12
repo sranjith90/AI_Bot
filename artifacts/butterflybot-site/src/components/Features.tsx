@@ -141,7 +141,7 @@ export default function Features() {
             "text-lg text-muted-foreground max-w-2xl mx-auto transition-all duration-500 delay-200",
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           )}>
-            From no-code flow builders to enterprise-grade security — ButterflyBot has every tool
+            From no-code flow builders to enterprise-grade security — ButterflySG has every tool
             your team needs to deliver outstanding automated customer experiences.
           </p>
         </div>

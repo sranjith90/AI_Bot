@@ -7,6 +7,7 @@ import { cn } from "@/utils/cn";
 const NAV_LINKS = [
   { label: "Features", href: "#features" },
   { label: "How It Works", href: "#how-it-works" },
+  { label: "Singapore", href: "#singapore" },
   { label: "Pricing", href: "#pricing" },
   { label: "About", href: "#about" },
   { label: "Contact", href: "#contact" },
@@ -45,7 +46,7 @@ export default function Navbar() {
               </div>
               <span className="text-lg font-bold font-serif tracking-tight">
                 <span className="gradient-text">Butterfly</span>
-                <span className="text-foreground">Bot</span>
+                <span className="text-foreground">SG</span>
               </span>
             </div>
           </Link>

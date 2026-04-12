@@ -9,7 +9,7 @@ const TESTIMONIALS = [
     initials: "DN",
     rating: 5,
     quote:
-      "ButterflyBot handles over 80% of our inbound queries without any human involvement. Our CSAT improved by 34 points in the first quarter alone.",
+      "ButterflySG handles over 80% of our inbound queries without any human involvement. Our CSAT improved by 34 points in the first quarter alone.",
   },
   {
     name: "Sahil Gupta",
@@ -17,7 +17,7 @@ const TESTIMONIALS = [
     initials: "SG",
     rating: 5,
     quote:
-      "We evaluated six platforms before choosing ButterflyBot. The multilingual support for Hindi and regional languages was the deciding factor — nothing else came close.",
+      "We evaluated six platforms before choosing ButterflySG. The multilingual support for Mandarin, Malay, and Tamil was the deciding factor — nothing else came close.",
   },
   {
     name: "Ananya Pillai",

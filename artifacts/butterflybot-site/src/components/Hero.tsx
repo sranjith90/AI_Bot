@@ -62,7 +62,7 @@ export default function Hero() {
           className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed mb-10"
           data-testid="hero-subheadline"
         >
-          ButterflyBot lets you deploy intelligent, multi-channel AI assistants that understand 
+          ButterflySG lets you deploy intelligent, multi-channel AI assistants that understand 
           your customers, resolve queries instantly, and hand off seamlessly to your human team.
         </p>
 
@@ -94,7 +94,7 @@ export default function Hero() {
                 <Sparkles className="w-4 h-4 text-white" />
               </div>
               <div>
-                <p className="text-sm font-semibold text-foreground">ButterflyBot</p>
+                <p className="text-sm font-semibold text-foreground">ButterflySG</p>
                 <p className="text-xs text-muted-foreground">Online · Typical reply in &lt;1s</p>
               </div>
               <div className="ml-auto w-2.5 h-2.5 rounded-full bg-green-500" />

@@ -58,11 +58,11 @@ export default function Footer() {
               </div>
               <span className="text-lg font-bold font-serif tracking-tight">
                 <span className="gradient-text">Butterfly</span>
-                <span className="text-foreground">Bot</span>
+                <span className="text-foreground">SG</span>
               </span>
             </div>
             <p className="text-sm text-muted-foreground leading-relaxed mb-5">
-              AI-powered chatbot platform for modern businesses. Built in India, trusted worldwide.
+              AI-powered chatbot platform for modern businesses. Built in Singapore, trusted worldwide.
             </p>
             {/* Social */}
             <div className="flex items-center gap-2">
@@ -107,12 +107,12 @@ export default function Footer() {
         {/* Bottom strip */}
         <div className="border-t border-border pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            &copy; {new Date().getFullYear()} ButterflyBot Technologies Pvt. Ltd. All rights reserved.
+            &copy; {new Date().getFullYear()} ButterflySG Technologies Pte. Ltd. All rights reserved.
           </p>
           <div className="flex items-center gap-1 text-xs text-muted-foreground">
             <span>Made with</span>
             <span className="text-rose-500">&#9829;</span>
-            <span>in Bengaluru, India</span>
+            <span>in Singapore</span>
           </div>
         </div>
       </div>

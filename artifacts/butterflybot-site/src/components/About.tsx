@@ -53,7 +53,7 @@ export default function About() {
               "text-muted-foreground leading-relaxed mb-8 transition-all duration-500 delay-200",
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
             )}>
-              Founded in 2021 in Bengaluru, ButterflyBot was born from a simple frustration: 
+              Founded in 2021 in Singapore, ButterflySG was born from a simple frustration: 
               building intelligent chatbots required a team of ML engineers, months of effort, 
               and enormous budgets. We set out to change that.
             </p>
@@ -61,8 +61,8 @@ export default function About() {
               "text-muted-foreground leading-relaxed mb-10 transition-all duration-500 delay-300",
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
             )}>
-              Today, over 2,400 businesses — from D2C startups to Fortune 500 enterprises — use 
-              ButterflyBot to handle customer queries, generate leads, and deliver experiences that 
+              Today, over 2,400 businesses — from startups to Fortune 500 enterprises — use 
+              ButterflySG to handle customer queries, generate leads, and deliver experiences that 
               feel genuinely human.
             </p>
 
@@ -122,8 +122,8 @@ export default function About() {
                   <MapPin className="w-5 h-5 text-primary" />
                 </div>
                 <div>
-                  <p className="font-semibold text-foreground text-sm">Headquartered in India</p>
-                  <p className="text-xs text-muted-foreground">Bengaluru · Mumbai · Delhi NCR</p>
+                  <p className="font-semibold text-foreground text-sm">Headquartered in Singapore</p>
+                  <p className="text-xs text-muted-foreground">CBD · One-North · Jurong East</p>
                 </div>
               </div>
               <div className="grid grid-cols-3 gap-4 pt-4 border-t border-border">

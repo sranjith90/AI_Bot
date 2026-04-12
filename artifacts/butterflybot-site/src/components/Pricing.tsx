@@ -154,7 +154,7 @@ export default function Pricing() {
 
         {/* Footer note */}
         <p className="text-center text-sm text-muted-foreground mt-10">
-          All plans include a 14-day free trial of Growth features · Prices in INR · GST applicable
+          All plans include a 14-day free trial of Growth features · Prices in SGD · GST applicable
         </p>
       </div>
     </section>

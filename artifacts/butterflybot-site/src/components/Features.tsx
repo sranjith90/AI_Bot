@@ -73,7 +73,7 @@ const FEATURES = [
     icon: Languages,
     title: "Multilingual Support",
     description:
-      "Support customers in 30+ languages including Hindi, Tamil, Bengali, and all major Indian regional languages.",
+      "Support customers in English, Mandarin, Malay, and Tamil languages.",
     color: "text-teal-500",
     bg: "bg-teal-500/10",
   },

@@ -21,7 +21,7 @@ const PLANS = [
   },
   {
     name: "Growth",
-    price: "₹2,499",
+    price: "$100",
     period: "/month",
     description: "For growing businesses that need more power and channels.",
     cta: "Start free trial",

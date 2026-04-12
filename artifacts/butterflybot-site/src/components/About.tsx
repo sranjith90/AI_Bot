@@ -10,8 +10,8 @@ const VALUES = [
   },
   {
     icon: Users,
-    title: "Built for India, ready for the world",
-    description: "Designed with Indian languages, regulations, and business workflows at the core.",
+    title: "Built for Singapore, ready for the world",
+    description: "Designed with Singaporean languages, regulations, and business workflows at the core.",
   },
   {
     icon: Award,

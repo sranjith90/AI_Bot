@@ -21,7 +21,7 @@ const VALUES = [
 ];
 
 const TEAM_MEMBERS = [
-  { name: "ChandraSekaran Selvaraj", role: "Co-founder & CEO", initials: "CS" },
+  { name: "Bhanu", role: "Co-founder & CEO", initials: "B" },
   { name: "Priya Sharma", role: "Co-founder & CTO", initials: "PS" },
   { name: "Ravi Kumar", role: "VP of Product", initials: "RK" },
   { name: "Neha Joshi", role: "Head of Design", initials: "NJ" },

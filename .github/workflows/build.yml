@@ -18,13 +18,13 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20   # Keep 20 for your app (safe)
+          node-version: 20
 
       - name: Enable pnpm
         run: corepack enable
 
-      - name: Install dependencies
-        run: pnpm install
+      - name: Install frontend dependencies
+        run: pnpm --filter ./artifacts/butterflybot-site install
 
       - name: Build React app
         run: pnpm --filter ./artifacts/butterflybot-site run build

@@ -34,5 +34,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: react-app-build
-          path: artifacts/butterflybot-site/dist1
+          path: artifacts/butterflybot-site/dist
 
